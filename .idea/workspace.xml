@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="268737f6-ae79-40fa-8c8b-4a22c85f155e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/.github/CODEOWNERS" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/.github/CODEOWNERS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/.github/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/.github/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/AUTHORS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/color/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/color/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/handler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/handler/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/hijacker/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/hijacker/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/logrus.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/logrus.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/print/errorf/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/print/errorf/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/print/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/print/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/print/multi/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/print/multi/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/scan/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/integrations/logrus/scan/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/marshaler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/marshaler/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/wrapper/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/_examples/wrapper/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/adapter.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/adapter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/color.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/color.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/hijacker.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/hijacker.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/marshaler.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/marshaler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/nop.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/nop.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/pio.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/pio.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/printer.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/printer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/registry.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/registry.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_appengine.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_appengine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_bsd.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_bsd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_linux.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_linux.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_notwindows.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_notwindows.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_solaris.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_solaris.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/kataras/pio/terminal/terminal_windows.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-82" />
+    <option name="y" value="1" />
+    <option name="width" value="1149" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="go-third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-third" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-third" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-third" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="github.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-third" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-third" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="github.com" type="462c0819:PsiDirectoryNode" />
+              <item name="kataras" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
